@@ -22,8 +22,3 @@ mount an existing file system run the command "./sfs_old_file_Elea_Dufresne
 mount" and for a fresh one, "./sfs_new_file_Elea_Dufresne mount". This is
 assuming the directory used for mounting is "mount" but any other folder 
 should work! 
-
------ NOTES -----------------------------------------------------------------
-
-I really hope you find my code readable. Have a great winter break! （っ＾▿＾）っ 
-
