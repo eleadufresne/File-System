@@ -15,11 +15,11 @@ OBJECTS_TEST_2 = $(SOURCES_TEST_2:.c=.o)
 OBJECTS_FUSE_OLD = $(SOURCES_FUSE_OLD:.c=.o)
 OBJECTS_FUSE_NEW = $(SOURCES_FUSE_NEW:.c=.o)
 
-EXECUTABLE_TEST_0 = sfs_test0_Elea_Dufresne
-EXECUTABLE_TEST_1 = sfs_test1_Elea_Dufresne
-EXECUTABLE_TEST_2 = sfs_test2_Elea_Dufresne
-EXECUTABLE_FUSE_OLD = sfs_old_file_Elea_Dufresne
-EXECUTABLE_FUSE_NEW = sfs_new_file_Elea_Dufresne
+EXECUTABLE_TEST_0 = sfs_test0
+EXECUTABLE_TEST_1 = sfs_test1
+EXECUTABLE_TEST_2 = sfs_test2
+EXECUTABLE_FUSE_OLD = sfs_old_file
+EXECUTABLE_FUSE_NEW = sfs_new_file
 
 # all the programs
 all : test0 test1 test2 fuse_old fuse_new
